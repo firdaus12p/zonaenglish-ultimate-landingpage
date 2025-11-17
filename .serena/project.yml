@@ -1,2 +1,11 @@
-project_name: cek-hasil
-language: javascript
+project_name: zonaenglish-ultimate-landingpage
+language: html
+description: Single-page Indonesian marketing landing page for ZonaEnglish educational ecosystem
+main_file: zonaneglish-ultimate-landing-page.html
+architecture: single-file-html
+tech_stack:
+  - vanilla-javascript
+  - vanilla-css
+  - no-build-process
+content_language: indonesian
+target_audience: muslim-indonesian-parents
